@@ -1,0 +1,3 @@
+POLSKO - msiexec /i TeamViewer_Host.msi /qn CUSTOMCONFIGID="6agzqpi" APITOKEN="7585425-x1jM1d56CIa3plWzY9Jm" ASSIGNMENTOPTIONS="--reassign --grant-easy-access"
+OSTRAVA - msiexec /i TeamViewer_Host.msi /qn CUSTOMCONFIGID="6dyny6q" APITOKEN="7585270-1p6sPKCTPmDjtqW8vnJf" ASSIGNMENTOPTIONS="--reassign --grant-easy-access"
+BRATISLAVA - msiexec /i TeamViewer_Host.msi /qn CUSTOMCONFIGID="6phybr9" APITOKEN="7443144-X1cd3Af69m82JfP89jWz" ASSIGNMENTOPTIONS="--reassign --grant-easy-access"
